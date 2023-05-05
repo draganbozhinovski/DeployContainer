@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRU0Cit/N4OHiYKnLgWjR2w0/uDEX8RFWhp28kQKLsa2PK8Bg/jOr5ZiNKOhA0HsuTAhWdZnclYsw0/7FMgnwA==",
+  "success": true,
+  "projectFilePath": "D:\\GlobalAzure2023\\repo\\DeployContainer\\DeployContainer\\DeployContainer\\DeployContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dragan.bozhinovski\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
